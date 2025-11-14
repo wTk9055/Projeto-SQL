@@ -62,11 +62,12 @@ Este projeto realiza uma análise de um banco de dados de livros, autores, edito
 
 - Execute as células do notebook notebook_SQL.ipynb em ordem.
 
----
+
+## 📄 Licença
+Este projeto é para fins educacionais.
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
----
 
 Este projeto foi desenvolvido como parte do meu portfólio de Análise de Dados. Feedback é sempre apreciado!
