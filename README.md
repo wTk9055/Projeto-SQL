@@ -1,6 +1,6 @@
 # Análise de Dados de Livros e Avaliações
 
-## 📋 Descrição / Resumo Executivo
+## 📋 Descrição
 
 Este projeto realiza uma análise de um banco de dados de livros, autores, editoras e avaliações para extrair insights sobre tendências de publicação, popularidade de livros, desempenho de autores e padrões de engajamento dos usuários. O projeto utiliza SQL para consultas avançadas e Python para análise e visualização dos resultados.
 
